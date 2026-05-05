@@ -37,6 +37,7 @@ Digunakan untuk menyimpan catatan pada halaman detail mahasiswa dalam bentuk fil
 **1. Aplikasi Tidak Bisa Dijalankan**
 
 Masalah: Aplikasi sering gagal dijalankan karena error dari Gradle.
+Mengatasi error Unresolved Reference dengan menyesuaikan ID komponen antara file XML dan Kotlin.
 
 
 
